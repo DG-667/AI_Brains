@@ -1,0 +1,37 @@
+version: '3.8'
+
+services:
+  competitor_matcher:
+    build:
+      context: ./competitor_matcher
+    volumes:
+      - C:\Users\DenisG\Documents\Workplace:/app/Workplace
+      - C:\Users\DenisG\Documents\AI files:/app/AI_files
+
+  gfk_classifier:
+    build:
+      context: ./gfk_classifier
+    volumes:
+      - C:\Users\DenisG\Documents\Workplace:/app/Workplace
+      - C:\Users\DenisG\Documents\AI files:/app/AI_files
+
+  gfk_consolidator:
+    build:
+      context: ./gfk_consolidator
+    volumes:
+      - C:\Users\DenisG\Documents\Workplace:/app/Workplace
+      - C:\Users\DenisG\Documents\AI files:/app/AI_files
+
+  goal_keeper:
+    build:
+      context: ./goal_keeper
+    volumes:
+      - C:\Users\DenisG\Documents\Workplace:/app/Workplace
+      - C:\Users\DenisG\Documents\AI files:/app/AI_files
+
+  quarterly_bonus_reporter:
+    build:
+      context: ./quarterly_bonus_reporter
+    volumes:
+      - C:\Users\DenisG\Documents\Workplace:/app/Workplace
+      - C:\Users\DenisG\Documents\AI files:/app/AI_files

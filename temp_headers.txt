@@ -1,0 +1,9 @@
+MATRIX HEADERS:
+['Наименование категории', 'Наименование товара', 'Бренд', 'Display', 'CPU', 'RAM', 'HDD', 'Video', 'ODD', 'OS', 'Артикул', 'MPN', 'Минимальная цена', 'RRP', 'Алсер', 'Белый ветер (Караганда)', 'Мечта (Астана)', 'Сулпак (Алматы)', 'Технодом (Алматы)', 'Эврика (Шымкент)', '(Каспи алматы) 1kz', '(Каспи алматы) ALSER', '(Каспи алматы) DISTI', '(Каспи алматы) Evrika', '(Каспи алматы) IT Sklad', '(Каспи алматы) SATEL', '(Каспи алматы) Белый Ветер', '(Каспи алматы) Планета Электроники', '(Каспи алматы) ТехноGRAD', 'DNS (Нур-Султан)', '(Каспи алматы) TeleNova', '(Каспи алматы) Soft Master', '(Каспи алматы) SuperPrice', '(Каспи алматы) Top-Sale']
+
+WORKPLACE HEADERS:
+['BP Name', '(Все)', 'Unnamed: 2', 'Unnamed: 3', 'Unnamed: 4', 'Unnamed: 5', 'Unnamed: 6', 'Unnamed: 7', 'Unnamed: 8', 'Unnamed: 9', 'Unnamed: 10', 'Unnamed: 11', 'Unnamed: 12', 'Unnamed: 13', 'Unnamed: 14']
+
+TEMPLATE HEADERS:
+['Unnamed: 0', 'Unnamed: 1', 'Unnamed: 2', 'Unnamed: 3', 'Unnamed: 4', 'Unnamed: 5', 'Unnamed: 6', 'Unnamed: 7', 'Unnamed: 8', 'Unnamed: 9']
+

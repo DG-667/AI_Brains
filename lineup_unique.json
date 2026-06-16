@@ -1,0 +1,36 @@
+{
+  "Brands": [
+    "Lenovo",
+    "Asus",
+    "Acer",
+    "Huawei",
+    "HP"
+  ],
+  "Targets": [
+    "Lowest Price",
+    "Lowest Price LFR"
+  ],
+  "Displays": [
+    "Display Size inch"
+  ],
+  "CPUs": [
+    "CPU",
+    "Core i3"
+  ],
+  "RAMs": [
+    "RAM",
+    "8G"
+  ],
+  "Storages": [
+    "Storage",
+    "256G"
+  ],
+  "Videos": [
+    "Video",
+    "Int"
+  ],
+  "OSs": [
+    "OS",
+    "Dos"
+  ]
+}
