@@ -35,3 +35,11 @@ services:
     volumes:
       - C:\Users\DenisG\Documents\Workplace:/app/Workplace
       - C:\Users\DenisG\Documents\AI files:/app/AI_files
+
+  market_analyst:
+    build:
+      context: ./market_analyst
+    volumes:
+      - C:\Users\DenisG\Documents\Workplace:/app/Workplace
+      - C:\Users\DenisG\Documents\AI files:/app/AI_files
+      - C:\Users\DenisG\Documents\AI_Brains:/app/AI_Brains
